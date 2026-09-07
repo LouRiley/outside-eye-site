@@ -406,6 +406,15 @@ img { max-width: 100%; display: block; }
   max-width: 54ch;
 }
 
+.signature {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--line);
+  max-width: 52ch;
+  font-size: 0.95rem;
+  color: var(--muted);
+}
+
 .offer-actions {
   margin-top: 3rem;
   display: flex;
