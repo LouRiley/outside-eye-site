@@ -15,7 +15,7 @@ if (yearEl) {
 //   1) replace href="#" on those elements directly in index.html, or
 //   2) set the URL below and this script will wire it up for you.
 // -----------------------------------------------------------------
-var CHECKOUT_URL = ""; // e.g. "https://buy.stripe.com/xxxxxxxx"
+var CHECKOUT_URL = "https://buy.stripe.com/8x27sL8gGcT03fy1h9gA800";
 
 if (CHECKOUT_URL) {
   document.querySelectorAll('[data-role="checkout-link"]').forEach(function (el) {
